@@ -1,4 +1,4 @@
-# crDroid Android #
+# Android Open Source G-OS Project #
 
 ## Grabbing the source ##
 
@@ -29,7 +29,7 @@ $ cd WORKSPACE
 
 # Install Repo in the created directory
 # Use a real name/email combination, if you intend to submit patches
-$ repo init -u https://github.com/crdroidandroid/android -b 6.0.0
+$ repo init -u https://github.com/AOSGP/android -b 6.0.0
 ```
 
 ### Downloading the source tree ###
