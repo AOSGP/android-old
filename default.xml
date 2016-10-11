@@ -539,7 +539,7 @@
 <!-- START AOSGP -->
   <project path="packages/apps/NexusLauncher" name="aosgp/android_packages_apps_NexusLauncher-prebuilt" remote="github" revision="master" />
   <project path="packages/apps/WallpaperPicker" name="aosgp/android_packages_apps_WallPaperPicker-prebuilt" remote="github" revision="master" />
-  <project path="vendor/cm" name="aosgp/android_vendor_aosgp" remote="github" revision="6.0.0" />
+  <project path="vendor/cm" name="aosgp/android_vendor_aosgp" remote="github" revision="6.0" />
   <project path="packages/apps/Settings" name="aosgp/android_packages_apps_Settings" remote="github" revision="6.0.0" />
 <!-- END AOSGP --> 
   
