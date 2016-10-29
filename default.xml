@@ -279,7 +279,6 @@
   <project path="packages/services/CMAudioService" name="CyanogenMod/android_packages_services_CMAudioService" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/services/LiveLockScreenService" name="CyanogenMod/android_packages_services_LiveLockScreenService" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/services/Mms" name="CyanogenMod/android_packages_services_Mms" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/services/Telecomm" name="CyanogenMod/android_packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/services/Telephony" name="CyanogenMod/android_packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/services/ThemeManagerService" name="CyanogenMod/android_packages_services_ThemeManagerService" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/services/WeatherService" name="CyanogenMod/android_packages_services_WeatherService" groups="pdk-cw-fs,pdk-fs" />
@@ -541,6 +540,7 @@
   <project path="packages/apps/Settings" name="aosgp/android_packages_apps_Settings" remote="github" revision="6.0.0" />
   <project path="packages/apps/Messaging" name="aosgp/android_packages_apps_Messaging" remote="github" revision="m-caf" />
   <project path="packages/apps/SetupWizard" name="aosgp/android_packages_apps_SetupWizard" remote="github" revision="cm-13.0" />
+  <project path="packages/services/Telecomm" name="aosgp/android_packages_services_Telecomm" remote="github" revision="cm-13.0" groups="pdk-cw-fs,pdk-fs" />
 <!-- END AOSGP --> 
   
 </manifest>
